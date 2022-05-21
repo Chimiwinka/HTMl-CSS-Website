@@ -1,3 +1,4 @@
-# Uni Assignment 
+Website using html and css
 
-Uni assignment
+First ever website built, where I used the basic knowledge learned from classes.
+Was used as an assignment.
